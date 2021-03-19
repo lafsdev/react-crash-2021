@@ -1,3 +1,5 @@
+![alt text](https://github.com/lafsdev/react-crash-2021/App.gif "App")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
